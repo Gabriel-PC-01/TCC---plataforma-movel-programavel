@@ -1,0 +1,20 @@
+Ponte H
+
+Rapberry PI
+
+Rodas - a definir, pois não sabemos o tamanho dele.
+
+Carcaça - A definir, pois não sabemos o tamanho do robô.
+Importante também dizer que ainda devemos escolher se 
+vamos usar uma carcaça pronta já comprada ou se vamos fazer
+com impressão 3d.
+
+
+
+Até então esses são os materiais que eu Gabriel imagino com
+certeza que iremos usar, mas vocês podem ir pesquisando e 
+dizendo quais outros materiais são uteis e também informem
+o modelo, marca e preço. Não coloquei porque temos outras 
+coisas mais importantes do TCC para pensar.
+
+
