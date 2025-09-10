@@ -1,3 +1,8 @@
+O objetivo desse documento é listar todas as técnologias
+que podemos usar afim de fazer o robô andar sem a necessidade
+de uma linha.
+
+
 📌 Roteiro de Aprendizado em C para Localização no Robô
 🔹 Semana 1 — Fundamentos no Raspberry Pi em C
 
